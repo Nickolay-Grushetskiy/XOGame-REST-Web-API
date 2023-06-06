@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33417.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOGame", "XOGame.csproj", "{7E6AA463-DE19-4860-AF0F-2EEE15756CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6AA463-DE19-4860-AF0F-2EEE15756CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6AA463-DE19-4860-AF0F-2EEE15756CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6AA463-DE19-4860-AF0F-2EEE15756CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6AA463-DE19-4860-AF0F-2EEE15756CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0427267B-41E7-4BEA-B035-A7AC9FA617AC}
+	EndGlobalSection
+EndGlobal
